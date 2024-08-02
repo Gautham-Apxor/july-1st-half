@@ -1,0 +1,467 @@
+
+    {
+        "name": "apx_clicked",
+        "additional_info": {
+            "apx_tagname": "input",
+            "apx_label": "",
+            "apx_class": "input_error form_input",
+            "apx_id": "user-name",
+            "apx_selector": "#user-name",
+            "apx_xpath": "//*[@id=\"user-name\"]",
+            "apx_coordinates": "{\"x\":327,\"y\":154}",
+            "apx_page_url": "https://www.saucedemo.com/",
+            "apx_mainTitle": "",
+            "apx_nearest_h2": "",
+            "apx_nearest_h3": "",
+            "apx_trigger": "click",
+            "apx_lt_count": 0,
+            "first_logged_time": "2024-08-02T11:57:19.665Z",
+            "latest_logged_time": "2024-08-02T11:57:19.665Z"
+        },
+        "time": 389.825
+    },
+    {
+        "name": "apx_input_changed",
+        "additional_info": {
+            "apx_tagname": "input",
+            "apx_label": "standard_user",
+            "apx_class": "input_error form_input",
+            "apx_id": "user-name",
+            "apx_selector": "#user-name",
+            "apx_xpath": "//*[@id=\"user-name\"]",
+            "apx_coordinates": "{\"x\":327,\"y\":154}",
+            "apx_page_url": "https://www.saucedemo.com/",
+            "apx_mainTitle": "",
+            "apx_nearest_h2": "",
+            "apx_nearest_h3": "",
+            "apx_trigger": "change",
+            "apx_value": "standard_user",
+            "apx_input_type": "text",
+            "apx_lt_count": 0,
+            "first_logged_time": "2024-08-02T11:57:20.548Z",
+            "latest_logged_time": "2024-08-02T11:57:20.548Z"
+        },
+        "time": 390.708
+    },
+    {
+        "name": "apx_clicked",
+        "additional_info": {
+            "apx_tagname": "input",
+            "apx_label": "",
+            "apx_class": "input_error form_input",
+            "apx_id": "password",
+            "apx_selector": "#password",
+            "apx_xpath": "//*[@id=\"password\"]",
+            "apx_coordinates": "{\"x\":327,\"y\":208}",
+            "apx_page_url": "https://www.saucedemo.com/",
+            "apx_mainTitle": "",
+            "apx_nearest_h2": "",
+            "apx_nearest_h3": "",
+            "apx_trigger": "click",
+            "apx_lt_count": 1,
+            "first_logged_time": "2024-08-02T11:57:19.665Z",
+            "latest_logged_time": "2024-08-02T11:57:21.305Z"
+        },
+        "time": 391.465
+    },
+    {
+        "name": "apx_input_changed",
+        "additional_info": {
+            "apx_tagname": "input",
+            "apx_label": "secret_sauce",
+            "apx_class": "input_error form_input",
+            "apx_id": "password",
+            "apx_selector": "#password",
+            "apx_xpath": "//*[@id=\"password\"]",
+            "apx_coordinates": "{\"x\":327,\"y\":208}",
+            "apx_page_url": "https://www.saucedemo.com/",
+            "apx_mainTitle": "",
+            "apx_nearest_h2": "",
+            "apx_nearest_h3": "",
+            "apx_trigger": "change",
+            "apx_value": "secret_sauce",
+            "apx_input_type": "password",
+            "apx_lt_count": 1,
+            "first_logged_time": "2024-08-02T11:57:20.548Z",
+            "latest_logged_time": "2024-08-02T11:57:26.603Z"
+        },
+        "time": 396.764
+    },
+    {
+        "name": "apx_clicked",
+        "additional_info": {
+            "apx_tagname": "input",
+            "apx_label": "Login",
+            "apx_class": "submit-button btn_action",
+            "apx_id": "login-button",
+            "apx_selector": "#login-button",
+            "apx_xpath": "//*[@id=\"login-button\"]",
+            "apx_coordinates": "{\"x\":327,\"y\":302}",
+            "apx_page_url": "https://www.saucedemo.com/",
+            "apx_mainTitle": "",
+            "apx_nearest_h2": "",
+            "apx_nearest_h3": "",
+            "apx_trigger": "click",
+            "apx_lt_count": 2,
+            "first_logged_time": "2024-08-02T11:57:19.665Z",
+            "latest_logged_time": "2024-08-02T11:57:26.783Z"
+        },
+        "time": 396.944
+    },
+    {
+        "name": "apx_clicked",
+        "additional_info": {
+            "apx_tagname": "button",
+            "apx_label": "Add to cart",
+            "apx_class": "btn btn_primary btn_small btn_inventory ",
+            "apx_id": "add-to-cart-sauce-labs-backpack",
+            "apx_selector": "#add-to-cart-sauce-labs-backpack",
+            "apx_xpath": "//*[@id=\"add-to-cart-sauce-labs-backpack\"]",
+            "apx_coordinates": "{\"x\":0,\"y\":0}",
+            "apx_page_url": "https://www.saucedemo.com/inventory.html",
+            "apx_mainTitle": "",
+            "apx_nearest_h2": "",
+            "apx_nearest_h3": "",
+            "apx_trigger": "click",
+            "apx_lt_count": 3,
+            "first_logged_time": "2024-08-02T11:57:19.665Z",
+            "latest_logged_time": "2024-08-02T11:57:30.454Z"
+        },
+        "time": 400.614
+    },
+    {
+        "name": "apx_clicked",
+        "additional_info": {
+            "apx_tagname": "button",
+            "apx_label": "Add to cart",
+            "apx_class": "btn btn_primary btn_small btn_inventory ",
+            "apx_id": "add-to-cart-sauce-labs-bike-light",
+            "apx_selector": "#add-to-cart-sauce-labs-bike-light",
+            "apx_xpath": "//*[@id=\"add-to-cart-sauce-labs-bike-light\"]",
+            "apx_coordinates": "{\"x\":0,\"y\":0}",
+            "apx_page_url": "https://www.saucedemo.com/inventory.html",
+            "apx_mainTitle": "",
+            "apx_nearest_h2": "",
+            "apx_nearest_h3": "",
+            "apx_trigger": "click",
+            "apx_lt_count": 4,
+            "first_logged_time": "2024-08-02T11:57:19.665Z",
+            "latest_logged_time": "2024-08-02T11:57:31.838Z"
+        },
+        "time": 401.998
+    }
+
+
+
+
+
+
+    {
+        "name": "apx_clicked",
+        "additional_info": {
+            "apx_tagname": "button",
+            "apx_label": "Add to cart",
+            "apx_class": "btn btn_primary btn_small btn_inventory ",
+            "apx_id": "add-to-cart-sauce-labs-bolt-t-shirt",
+            "apx_selector": "#add-to-cart-sauce-labs-bolt-t-shirt",
+            "apx_xpath": "//*[@id=\"add-to-cart-sauce-labs-bolt-t-shirt\"]",
+            "apx_coordinates": "{\"x\":0,\"y\":0}",
+            "apx_page_url": "https://www.saucedemo.com/inventory.html",
+            "apx_mainTitle": "",
+            "apx_nearest_h2": "",
+            "apx_nearest_h3": "",
+            "apx_trigger": "click",
+            "apx_lt_count": 5,
+            "first_logged_time": "2024-08-02T11:57:19.665Z",
+            "latest_logged_time": "2024-08-02T11:57:33.766Z"
+        },
+        "time": 403.927
+    },
+    {
+        "name": "apx_clicked",
+        "additional_info": {
+            "apx_tagname": "span",
+            "apx_label": "3",
+            "apx_class": "shopping_cart_badge",
+            "apx_id": "",
+            "apx_selector": "#shopping_cart_container > a > span",
+            "apx_xpath": "//*[@id=\"shopping_cart_container\"]/a/span",
+            "apx_coordinates": "{\"x\":0,\"y\":0}",
+            "apx_page_url": "https://www.saucedemo.com/cart.html",
+            "apx_mainTitle": "",
+            "apx_nearest_h2": "",
+            "apx_nearest_h3": "",
+            "apx_trigger": "click",
+            "apx_lt_count": 6,
+            "first_logged_time": "2024-08-02T11:57:19.665Z",
+            "latest_logged_time": "2024-08-02T11:57:39.046Z"
+        },
+        "time": 409.207
+    },
+    {
+        "name": "apx_clicked",
+        "additional_info": {
+            "apx_tagname": "button",
+            "apx_label": "Checkout",
+            "apx_class": "btn btn_action btn_medium checkout_button ",
+            "apx_id": "checkout",
+            "apx_selector": "#checkout",
+            "apx_xpath": "//*[@id=\"checkout\"]",
+            "apx_coordinates": "{\"x\":0,\"y\":0}",
+            "apx_page_url": "https://www.saucedemo.com/checkout-step-one.html",
+            "apx_mainTitle": "",
+            "apx_nearest_h2": "",
+            "apx_nearest_h3": "",
+            "apx_trigger": "click",
+            "apx_lt_count": 7,
+            "first_logged_time": "2024-08-02T11:57:19.665Z",
+            "latest_logged_time": "2024-08-02T11:57:41.457Z"
+        },
+        "time": 411.617
+    },
+    {
+        "name": "apx_clicked",
+        "additional_info": {
+            "apx_tagname": "input",
+            "apx_label": "",
+            "apx_class": "input_error form_input",
+            "apx_id": "first-name",
+            "apx_selector": "#first-name",
+            "apx_xpath": "//*[@id=\"first-name\"]",
+            "apx_coordinates": "{\"x\":283,\"y\":255}",
+            "apx_page_url": "https://www.saucedemo.com/checkout-step-one.html",
+            "apx_mainTitle": "",
+            "apx_nearest_h2": "",
+            "apx_nearest_h3": "",
+            "apx_trigger": "click",
+            "apx_lt_count": 8,
+            "first_logged_time": "2024-08-02T11:57:19.665Z",
+            "latest_logged_time": "2024-08-02T11:57:44.577Z"
+        },
+        "time": 414.737
+    },
+    {
+        "name": "apx_input_changed",
+        "additional_info": {
+            "apx_tagname": "input",
+            "apx_label": "Goku",
+            "apx_class": "input_error form_input",
+            "apx_id": "first-name",
+            "apx_selector": "#first-name",
+            "apx_xpath": "//*[@id=\"first-name\"]",
+            "apx_coordinates": "{\"x\":283,\"y\":255}",
+            "apx_page_url": "https://www.saucedemo.com/checkout-step-one.html",
+            "apx_mainTitle": "",
+            "apx_nearest_h2": "",
+            "apx_nearest_h3": "",
+            "apx_trigger": "change",
+            "apx_value": "Goku",
+            "apx_input_type": "text",
+            "apx_lt_count": 2,
+            "first_logged_time": "2024-08-02T11:57:20.548Z",
+            "latest_logged_time": "2024-08-02T11:57:49.953Z"
+        },
+        "time": 420.113
+    },
+    {
+        "name": "apx_clicked",
+        "additional_info": {
+            "apx_tagname": "input",
+            "apx_label": "",
+            "apx_class": "input_error form_input",
+            "apx_id": "last-name",
+            "apx_selector": "#last-name",
+            "apx_xpath": "//*[@id=\"last-name\"]",
+            "apx_coordinates": "{\"x\":283,\"y\":309}",
+            "apx_page_url": "https://www.saucedemo.com/checkout-step-one.html",
+            "apx_mainTitle": "",
+            "apx_nearest_h2": "",
+            "apx_nearest_h3": "",
+            "apx_trigger": "click",
+            "apx_lt_count": 9,
+            "first_logged_time": "2024-08-02T11:57:19.665Z",
+            "latest_logged_time": "2024-08-02T11:57:50.133Z"
+        },
+        "time": 420.293
+    },
+    {
+        "name": "apx_input_changed",
+        "additional_info": {
+            "apx_tagname": "input",
+            "apx_label": "Gau",
+            "apx_class": "input_error form_input",
+            "apx_id": "last-name",
+            "apx_selector": "#last-name",
+            "apx_xpath": "//*[@id=\"last-name\"]",
+            "apx_coordinates": "{\"x\":283,\"y\":309}",
+            "apx_page_url": "https://www.saucedemo.com/checkout-step-one.html",
+            "apx_mainTitle": "",
+            "apx_nearest_h2": "",
+            "apx_nearest_h3": "",
+            "apx_trigger": "change",
+            "apx_value": "Gau",
+            "apx_input_type": "text",
+            "apx_lt_count": 3,
+            "first_logged_time": "2024-08-02T11:57:20.548Z",
+            "latest_logged_time": "2024-08-02T11:57:52.503Z"
+        },
+        "time": 422.663
+    }
+
+
+
+
+
+    {
+        "name": "apx_clicked",
+        "additional_info": {
+            "apx_tagname": "input",
+            "apx_label": "",
+            "apx_class": "input_error form_input",
+            "apx_id": "postal-code",
+            "apx_selector": "#postal-code",
+            "apx_xpath": "//*[@id=\"postal-code\"]",
+            "apx_coordinates": "{\"x\":283,\"y\":363}",
+            "apx_page_url": "https://www.saucedemo.com/checkout-step-one.html",
+            "apx_mainTitle": "",
+            "apx_nearest_h2": "",
+            "apx_nearest_h3": "",
+            "apx_trigger": "click",
+            "apx_lt_count": 10,
+            "first_logged_time": "2024-08-02T11:57:19.665Z",
+            "latest_logged_time": "2024-08-02T11:57:52.681Z"
+        },
+        "time": 422.842
+    },
+    {
+        "name": "apx_input_changed",
+        "additional_info": {
+            "apx_tagname": "input",
+            "apx_label": "500044",
+            "apx_class": "input_error form_input",
+            "apx_id": "postal-code",
+            "apx_selector": "#postal-code",
+            "apx_xpath": "//*[@id=\"postal-code\"]",
+            "apx_coordinates": "{\"x\":283,\"y\":363}",
+            "apx_page_url": "https://www.saucedemo.com/checkout-step-one.html",
+            "apx_mainTitle": "",
+            "apx_nearest_h2": "",
+            "apx_nearest_h3": "",
+            "apx_trigger": "change",
+            "apx_value": "500044",
+            "apx_input_type": "text",
+            "apx_lt_count": 4,
+            "first_logged_time": "2024-08-02T11:57:20.548Z",
+            "latest_logged_time": "2024-08-02T11:58:00.005Z"
+        },
+        "time": 430.165
+    },
+    {
+        "name": "apx_clicked",
+        "additional_info": {
+            "apx_tagname": "input",
+            "apx_label": "Continue",
+            "apx_class": "submit-button btn btn_primary cart_button btn_action",
+            "apx_id": "continue",
+            "apx_selector": "#continue",
+            "apx_xpath": "//*[@id=\"continue\"]",
+            "apx_coordinates": "{\"x\":711,\"y\":599}",
+            "apx_page_url": "https://www.saucedemo.com/checkout-step-one.html",
+            "apx_mainTitle": "",
+            "apx_nearest_h2": "",
+            "apx_nearest_h3": "",
+            "apx_trigger": "click",
+            "apx_lt_count": 11,
+            "first_logged_time": "2024-08-02T11:57:19.665Z",
+            "latest_logged_time": "2024-08-02T11:58:00.184Z"
+        },
+        "time": 430.344
+    },
+    {
+        "name": "apx_clicked",
+        "additional_info": {
+            "apx_tagname": "button",
+            "apx_label": "Finish",
+            "apx_class": "btn btn_action btn_medium cart_button",
+            "apx_id": "finish",
+            "apx_selector": "#finish",
+            "apx_xpath": "//*[@id=\"finish\"]",
+            "apx_coordinates": "{\"x\":0,\"y\":0}",
+            "apx_page_url": "https://www.saucedemo.com/checkout-complete.html",
+            "apx_mainTitle": "",
+            "apx_nearest_h2": "",
+            "apx_nearest_h3": "",
+            "apx_trigger": "click",
+            "apx_lt_count": 12,
+            "first_logged_time": "2024-08-02T11:57:19.665Z",
+            "latest_logged_time": "2024-08-02T11:58:03.225Z"
+        },
+        "time": 433.385
+    },
+    {
+        "name": "apx_clicked",
+        "additional_info": {
+            "apx_tagname": "button",
+            "apx_label": "Back Home",
+            "apx_class": "btn btn_primary btn_small",
+            "apx_id": "back-to-products",
+            "apx_selector": "#back-to-products",
+            "apx_xpath": "//*[@id=\"back-to-products\"]",
+            "apx_coordinates": "{\"x\":0,\"y\":0}",
+            "apx_page_url": "https://www.saucedemo.com/inventory.html",
+            "apx_mainTitle": "",
+            "apx_nearest_h2": "Thank you for your order!",
+            "apx_nearest_h3": "",
+            "apx_trigger": "click",
+            "apx_lt_count": 13,
+            "first_logged_time": "2024-08-02T11:57:19.665Z",
+            "latest_logged_time": "2024-08-02T11:58:05.557Z"
+        },
+        "time": 435.719
+    },
+    {
+        "name": "apx_clicked",
+        "additional_info": {
+            "apx_tagname": "button",
+            "apx_label": "Open Menu",
+            "apx_class": "",
+            "apx_id": "react-burger-menu-btn",
+            "apx_selector": "#react-burger-menu-btn",
+            "apx_xpath": "//*[@id=\"react-burger-menu-btn\"]",
+            "apx_coordinates": "{\"x\":20,\"y\":20}",
+            "apx_page_url": "https://www.saucedemo.com/inventory.html",
+            "apx_mainTitle": "",
+            "apx_nearest_h2": "",
+            "apx_nearest_h3": "",
+            "apx_trigger": "click",
+            "apx_lt_count": 14,
+            "first_logged_time": "2024-08-02T11:57:19.665Z",
+            "latest_logged_time": "2024-08-02T11:58:11.373Z"
+        },
+        "time": 441.533
+    }
+
+
+
+
+    {
+        "name": "apx_clicked",
+        "additional_info": {
+            "apx_tagname": "a",
+            "apx_label": "https://www.saucedemo.com/#",
+            "apx_class": "bm-item menu-item",
+            "apx_id": "logout_sidebar_link",
+            "apx_selector": "#logout_sidebar_link",
+            "apx_xpath": "//*[@id=\"logout_sidebar_link\"]",
+            "apx_coordinates": "{\"x\":0,\"y\":0}",
+            "apx_page_url": "https://www.saucedemo.com/",
+            "apx_mainTitle": "",
+            "apx_nearest_h2": "",
+            "apx_nearest_h3": "",
+            "apx_trigger": "click",
+            "apx_lt_count": 15,
+            "first_logged_time": "2024-08-02T11:57:19.665Z",
+            "latest_logged_time": "2024-08-02T11:58:12.753Z"
+        },
+        "time": 442.913
+    }
